@@ -54,14 +54,6 @@ Email: info@prodesk.in
 Team & Scale
 Prodesk IT includes dozens to over a hundred professionals across software engineering, consulting, and enterprise technology delivery.]
 ```
-
-
-## 3) README Generation Prompt (for future tasks)
-
-```text
-Create a README file that includes all main prompts used for this project.
-```
-
 ---
 Screenshots of site 
 ![alt text](image.png)
